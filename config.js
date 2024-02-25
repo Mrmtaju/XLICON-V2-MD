@@ -14,7 +14,7 @@ global.owner = [
   ['233533763772', 'Abraham Dwamena2', true],
   ['233531910067', 'Abraham Dwamena3', true],
   
-] //Number of owners
+] //Number of owners 255718209850
 
 //global.pairingNumber = "" //put your bot number here
 
